@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  poppy
-//
-//  Created by Jessica Joseph on 4/8/18.
-//  Copyright © 2018 B0RN BKLYN. All rights reserved.
-//
+//Andrew Hwang
 
 import UIKit
 
